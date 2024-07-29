@@ -1,0 +1,14 @@
+
+—
+java:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8êÔØ2J$84f02190-0949-4f3d-9833-9c36e5136170
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8êÔØ2J$df96d321-b188-4f8d-998a-23be7758d5d9
+}
+java:S1161
+":Add the "@Override" annotation above this method signature(°€İá8æºµŠ2J$a4e2fd1c-759d-4603-94f6-cb8a35d83d88
+š
+java:S1989"RHandle the following exception that could be thrown by "handleLogin": IOException.(Ë¦ÊÅúÿÿÿÿ8îºµŠ2J$e643e4fe-717f-4eb1-9cce-75b5c92746d8
+›
+java:S1989"SHandle the following exception that could be thrown by "handleSignup": IOException.(ÿµşÿÿÿÿ8ğºµŠ2J$38722147-5ee4-4fe1-a5b0-dfd4e7be3d8e
+g
+java:S6905"Don't use the query "SELECT *".( Ìƒèıÿÿÿÿ8ıºµŠ2J$e94279d2-ff77-43ef-ab0e-913bc1c41ada

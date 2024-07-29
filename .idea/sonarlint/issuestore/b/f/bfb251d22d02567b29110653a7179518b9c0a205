@@ -1,0 +1,20 @@
+
+¦
+java:S1192#"^Define a constant instead of duplicating this literal "todo.jsp?error=Database error" 3 times.(ƒ·Ëùøÿÿÿÿ8‚ì’µŠ2J$63ac06f6-5475-4aa4-a7d6-f2f6e4c11e4d
+‘
+java:S1192 "IDefine a constant instead of duplicating this literal "todo.jsp" 3 times.(­à‘Ñıÿÿÿÿ8„ì’µŠ2J$c269970f-b9c9-45ce-9f58-15b05927a715
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8‡ìÔØ2J$6638801b-4055-48c0-96db-85082a09bb17
+—
+java:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8ˆìÔØ2J$bbfd18bc-67f8-4a6e-81d7-6677930a781a
+—
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8‡ìÔØ2J$19bbfebd-7c64-4a2c-a6fb-5536208109bb
+}
+java:S1161
+":Add the "@Override" annotation above this method signature(°€İá8”ì’µŠ2J$6f168c03-299d-404a-be22-4c39e2df2332
+˜
+java:S1989"PHandle the following exception that could be thrown by "handleAdd": IOException.(Í‘¯üÿÿÿÿ8–ì’µŠ2J$5aa2d62f-c245-4d17-839c-cf54e3322711
+›
+java:S1989"SHandle the following exception that could be thrown by "handleStrike": IOException.(œÊ—Şúÿÿÿÿ8˜ì’µŠ2J$c9532154-7154-4d87-a8bc-cc46a5c6f9b8
+–
+java:S1989"SHandle the following exception that could be thrown by "handleDelete": IOException.(şÑÓ°8šì’µŠ2J$9039c8a6-c248-4018-b70d-98ef110a2af1
